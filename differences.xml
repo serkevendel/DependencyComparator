@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<examplepom.xml>
+  <dependency>
+    <groupId>io.swagger</groupId>
+    <artifactId>swagger-core</artifactId>
+    <version>1.7.10</version>
+  </dependency>
+  <dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.20</version>
+  </dependency>
+</examplepom.xml>
